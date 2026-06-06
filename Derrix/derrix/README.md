@@ -13,7 +13,6 @@ Ce projet met l’accent sur la simplicité, la clarté et une structure profess
 
 ##### ---------------------------------------------------------------
 
-## Fonctionnalités
 
 ## Côté Utilisateur
 
